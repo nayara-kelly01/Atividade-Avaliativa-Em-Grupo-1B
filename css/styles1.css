@@ -1,0 +1,77 @@
+h1 {
+  font-family: "Bebas Neue", sans-serif;
+  font-size: 2.2rem;
+  font-weight: 700;
+  font-style: normal;
+  color: #0277bd;
+}
+
+h2 {
+  font-family: "Bebas Neue", sans-serif;
+  font-style: normal;
+  color: #0277bd;
+}
+
+h3 {
+  font-family: "Bebas Neue", sans-serif;
+  font-style: normal;
+  color: #0277bd;
+}
+body {
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+  background-color: #fefefe;
+  color: #333;
+}
+
+p {
+  text-align: justify;
+}
+
+aside {
+  background-color: #bbb8b8;
+  border-left: 4px solid #000000;
+  font-style: italic;
+}
+
+figcaption {
+  font-size: 0.8em;
+  color: #888888;
+  font-style: italic;
+}
+
+footer {
+  font-size: 0.8em;
+  color: #888888;
+  font-style: italic;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  gap: 15px;
+}
+
+nav a {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-size: 1.1rem;
+  text-decoration: none;
+  color: #0277bd;
+  font-weight: 600;
+}
+
+nav a:hover,
+nav a:focus {
+  background-color: #0277bd;
+  color: #fff;
+}
+
+span {
+  font-weight: bold;
+}
